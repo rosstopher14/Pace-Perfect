@@ -1,0 +1,8 @@
+1. Been trying ode long to get the Entry() method to work. Problem is with the newRunID method. (Probably will go back to this last since we dont need to add new data)
+2. Have to change the code around to match the data.
+3. Get rid of placeholders
+4. Better recommendations
+5. Minor problem with the MET values (Honestly she wont notice but ill probably go back to it at the end)
+6. Add option to change weight of user
+7. Change class names
+(Theres probably more just cant think off the top of my head)
